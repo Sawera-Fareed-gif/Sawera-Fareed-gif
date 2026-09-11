@@ -59,21 +59,21 @@ Database Design, and UML modeling.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=za3060873-gif&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&icon_color=5EF1FF&text_color=E7D6FF" alt="GitHub stats" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sawera-Fareed-gif&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&icon_color=5EF1FF&text_color=E7D6FF" alt="GitHub stats" width="46%">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=za3060873-gif&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&text_color=E7D6FF" alt="Most used languages" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawera-Fareed-gif&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=FF6EC7&text_color=E7D6FF" alt="Most used languages" width="46%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=za3060873-gif&theme=radical&hide_border=true&background=1A0B2E&stroke=FF6EC7&ring=FF6EC7&fire=FFD76E&currStreakLabel=FFD76E" alt="GitHub streak stats" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sawera-Fareed-gif&theme=radical&hide_border=true&background=1A0B2E&stroke=FF6EC7&ring=FF6EC7&fire=FFD76E&currStreakLabel=FFD76E" alt="GitHub streak stats" width="70%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=za3060873-gif&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" width="90%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sawera-Fareed-gif&theme=radical&no-frame=true&margin-w=8&row=1" alt="GitHub trophies" width="90%">
 </div>
 
 <br>
@@ -92,14 +92,14 @@ Database Design, and UML modeling.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=za3060873-gif&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sawera-Fareed-gif&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="95%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/za3060873-gif/za3060873-gif/output/github-snake-dark.svg#gh-dark-mode-only" alt="contribution snake dark" width="95%">
-  <img src="https://raw.githubusercontent.com/za3060873-gif/za3060873-gif/output/github-snake.svg#gh-light-mode-only" alt="contribution snake light" width="95%">
+  <img src="https://raw.githubusercontent.com/Sawera-Fareed-gif/Sawera-Fareed-gif/output/github-snake-dark.svg#gh-dark-mode-only" alt="contribution snake dark" width="95%">
+  <img src="https://raw.githubusercontent.com/Sawera-Fareed-gif/Sawera-Fareed-gif/output/github-snake.svg#gh-light-mode-only" alt="contribution snake light" width="95%">
 </div>
 
 <br>
@@ -108,7 +108,7 @@ Database Design, and UML modeling.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/za3060873-gif)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sawera-Fareed-gif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawera-fareed-84961035b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:za3060873@gmail.com)
 
@@ -117,7 +117,7 @@ Database Design, and UML modeling.
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=za3060873-gif&style=for-the-badge&color=ff6ec7" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Sawera-Fareed-gif&style=for-the-badge&color=ff6ec7" alt="Profile views">
 </div>
 
 <div align="center">
