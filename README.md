@@ -19,8 +19,10 @@
 ### 🚀 About Me
 
 Software Engineering student who loves turning ideas into working code.
-Currently building with **Java**, **SQL**, and **Python**, and diving deep into
-Data Structures, Database Design, and UML modeling.
+I build with **Java**, **SQL**, and **Python** on the backend, and craft
+responsive, user-friendly interfaces with **HTML**, **CSS**, **JavaScript**,
+and **Bootstrap** on the frontend. Also diving deep into Data Structures,
+Database Design, and UML modeling.
 
 </div>
 
@@ -29,6 +31,12 @@ Data Structures, Database Design, and UML modeling.
 <div align="center">
 
 ## 🧰 Tech Stack
+
+**Frontend Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,7 +52,7 @@ Data Structures, Database Design, and UML modeling.
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 **Core Concepts**
-`Data Structures & Algorithms` · `Database Design & Normalization` · `UML Modeling` · `SRS Documentation` · `Data Labeling & Categorization`
+`Responsive Web Design` · `Data Structures & Algorithms` · `Database Design & Normalization` · `UML Modeling` · `SRS Documentation` · `Data Labeling & Categorization`
 
 </div>
 
