@@ -85,7 +85,7 @@ Database Design, and UML modeling.
 | **SkillSwap** | Peer-to-peer academic barter platform with token-based exchange, complete SRS documentation and UML design | Java, MySQL, UML |
 | **Java AI ChatBot** | Desktop chatbot with a Swing GUI, powered by the Claude API for context-aware conversation | Java, Swing |
 | **Snake & Ladder Game** | Classic board game built with Java Swing, combining five different data structures | Java, Swing, DSA |
-| **FabJobHunter** | Job-hunting automation system with a JSON file-based architecture | Node.js, Next.js |
+| **UCP Bachelor Programs Registration Form** | Built a responsive university admission form with semantic HTML, a card-based CSS layout, and custom-styled inputs, focusing on accessibility and clean visual hierarchy. Implemented dynamic form behavior with JavaScript (DOM manipulation and event handling) for real-time feedback on the selected degree program; deployed live via GitHub Pages. | HTML, CSS, JavaScript |
 
 <br>
 
